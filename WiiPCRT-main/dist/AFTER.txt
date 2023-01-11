@@ -1,0 +1,3 @@
+To use WiiPCRT (wiipcrt.exe), you can simply double-click wiipcrt.exe,
+but if that does not work for you, you need to open cmd.exe (Command Prompt)
+and type in "wiipcrt" and hit enter.
